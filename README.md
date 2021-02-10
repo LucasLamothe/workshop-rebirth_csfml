@@ -20,8 +20,8 @@
     <li>
       <a href="#exercises">Exercises</a>
       <ul>
-        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/exercise1">Exercise 1</a></li>
-        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/exercise2">Exercise 2</a></li>
+        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercise 1</a></li>
+        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercise 2</a></li>
       </ul>
     </li>
   </ol>
