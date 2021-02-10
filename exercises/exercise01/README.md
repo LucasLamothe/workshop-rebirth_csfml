@@ -1,4 +1,4 @@
-## Exercise 01
+## Exercice 01
 
 > Vous avez déjà du code de fourni, il contient la création d'une fenêtre et d'un background en CSFML.
 

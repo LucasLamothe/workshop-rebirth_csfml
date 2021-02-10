@@ -1,4 +1,4 @@
-## Exercise 02
+## Exercice 02
 
 > Vous avez déjà du code de fourni. Il contient le code de l'exercise 01 ainsi que l'ajout de plusieurs 'bird'.
 

@@ -22,10 +22,10 @@
       <a href="#installation">Installation</a>
     </li>
     <li>
-      <a href="#exercises">Exercises</a>
+      <a href="#exercises">Exercices</a>
       <ul>
-        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercise 1</a></li>
-        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercise 2</a></li>
+        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercice 1</a></li>
+        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercice 2</a></li>
       </ul>
     </li>
     <li>
@@ -54,7 +54,7 @@ git clone https://github.com/LucasLamothe/workshop-rebirth_csfml.git
 
 ## Exercices
 
-Dans le dossier **exercises/**, vous retrouvez l'ensemble des exercises de ce Workshop. Chacun d'entre eux contient un README qui sera la consigne à suivre.
+Dans le dossier **exercises/**, vous retrouvez l'ensemble des exercices de ce Workshop. Chacun d'entre eux contient un README qui sera la consigne à suivre.
 
 <br />
 
