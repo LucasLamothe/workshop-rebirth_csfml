@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Lucas-LAMOTHE/workshop-rebirth_csfml/">
-    <img src=".github/assets/epitech-logo.png" alt="Logo Eitech" width="200" height="100">
+    <img src=".github/assets/epitech-logo.png" alt="Logo Eitech" width="600" height="100">
   </a>
 
   <h3 align="center">workshop-rebirth_csfml</h3>
@@ -28,6 +28,9 @@
         <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercise 2</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#credits">Credits</a>
+    </li>
   </ol>
 </details>
 
@@ -48,3 +51,7 @@ Il vous suffit de récupérer le repository git :
 ## Exercices
 
 Dans le dossier **exercises/**, vous retrouvez l'ensemble des exercises de ce Workshop. Chacun d'entre eux contient un README qui sera la consigne à suivre.
+
+## Credits
+
+Logo Epitech utilisé dans le README : <a href="https://www.epitech.eu/">epitech.eu</a>
