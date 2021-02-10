@@ -40,10 +40,9 @@ Ce Workshop est réalisé dans le but de revoir les bases de la CSFML et les bon
 ## Installation
 
 Il vous suffit de récupérer le repository git :
-
-    ```sh
-        git clone https://github.com/LucasLamothe/workshop-rebirth_csfml.git
-    ```
+```sh
+git clone https://github.com/LucasLamothe/workshop-rebirth_csfml.git
+```
 
 ## Exercices
 
