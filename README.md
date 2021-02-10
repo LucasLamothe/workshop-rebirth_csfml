@@ -40,6 +40,8 @@
 
 Ce Workshop est réalisé dans le but de revoir les bases de la CSFML et les bonnes pratiques à utilisé pour les futurs projets.
 
+<br />
+
 ## Installation
 
 Il vous suffit de récupérer le repository git :
@@ -48,9 +50,13 @@ Il vous suffit de récupérer le repository git :
 git clone https://github.com/LucasLamothe/workshop-rebirth_csfml.git
 ```
 
+<br />
+
 ## Exercices
 
 Dans le dossier **exercises/**, vous retrouvez l'ensemble des exercises de ce Workshop. Chacun d'entre eux contient un README qui sera la consigne à suivre.
+
+<br />
 
 ## Credits
 
