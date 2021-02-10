@@ -39,7 +39,7 @@
 
 ## Description
 
-Ce Workshop est réalisé dans le but de revoir les bases de la CSFML et les bonnes pratiques à utilisé pour les futurs projets.
+Ce Workshop est réalisé dans le but de revoir les bases de la CSFML et les bonnes pratiques à utilisé pour les futurs projets. Celui-ci est principalement destiné aux étudiants de première année à Epitech faisant partie du Bootcamp Rebirth.
 
 <br />
 
