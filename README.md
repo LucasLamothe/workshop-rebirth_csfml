@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/Lucas-LAMOTHE/workshop-rebirth_csfml/">
-    <img src=".github/assets/epitech-logo.png" alt="Logo Eitech" width="600" height="100">
+  <a href="https://github.com/LucasLamothe/workshop-rebirth_csfml">
+    <img src=".github/assets/epitech-logo.png" alt="Logo Epitech" width="400" height="150">
   </a>
 
   <h3 align="center">workshop-rebirth_csfml</h3>
@@ -44,9 +44,9 @@ Ce Workshop est réalisé dans le but de revoir les bases de la CSFML et les bon
 
 Il vous suffit de récupérer le repository git :
 
-    ```sh
-        git clone https://github.com/LucasLamothe/workshop-rebirth_csfml.git
-    ```
+```sh
+git clone https://github.com/LucasLamothe/workshop-rebirth_csfml.git
+```
 
 ## Exercices
 
