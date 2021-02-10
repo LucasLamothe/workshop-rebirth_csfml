@@ -1,5 +1,9 @@
 <br />
 <p align="center">
+  <a href="https://github.com/Lucas-LAMOTHE/workshop-rebirth_csfml/">
+    <img src=".github/assets/epitech-logo.png" alt="Logo Eitech" width="200" height="100">
+  </a>
+
   <h3 align="center">workshop-rebirth_csfml</h3>
 
   <p align="center">
