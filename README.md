@@ -26,6 +26,7 @@
       <ul>
         <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercice 1</a></li>
         <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise01">Exercice 2</a></li>
+        <li><a href="https://github.com/LucasLamothe/workshop-rebirth_csfml/tree/master/exercises/exercise03">Exercice 6</a></li>
       </ul>
     </li>
     <li>
